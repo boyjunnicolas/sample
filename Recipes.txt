@@ -6,5 +6,8 @@ Fried chicken recipe
 pasta
 Shawarma
 
+beans
+pizza
+
 
 Thank you
